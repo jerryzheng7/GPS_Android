@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RunTracker</string>
+    <string name="location_info_will_appear_here">Location info will appear here</string>
+    <string name="speed_info_will_appear_here">Speed info will appear here</string>
+    <string name="reset">Reset</string>
+    <string name="switch_to_m_s">Switch to m/s</string>
+    <string name="pause">Pause</string>
+    <string name="elapsed_time">Elapsed Time</string>
+    <string name="help">Help</string>
+    <string name="dev_mode">Dev Mode</string>
+</resources>
